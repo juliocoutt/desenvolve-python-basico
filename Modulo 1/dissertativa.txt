@@ -1,0 +1,6 @@
+
+Para resolver a multiplicação do 9 por qualquer valor n, seguimos as seguintes etapas:
+
+1. Subtraímos 1 do valor de n para obter o primeiro dígito (a dezena).
+2. Subtraímos o resultado anterior de 10 para obter o segundo dígito (a unidade).
+3. Multiplicamos o primeiro dígito por 10 e somamos com o segundo dígito para obter o resultado final.

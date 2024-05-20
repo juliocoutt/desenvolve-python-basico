@@ -1,0 +1,10 @@
+
+
+1. Início
+2. Ler valor de n
+3. Calcular digito1 = n - 1
+4. Calcular digito2 = 10 - n
+5. Calcular resultado_final = (digito1 * 10) + digito2
+6. Imprimir resultado_final
+7. Fim
+```
